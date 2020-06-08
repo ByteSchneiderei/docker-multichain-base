@@ -20,7 +20,7 @@ Dockerfile for the byteschneiderei/multichain-base image
 ``` bash
 docker pull byteschneiderei/multichain-base:latest
 
-# version 3.8.3
+# version 2.0.7
 docker pull byteschneiderei/multichain-base:2.0.7
 ```
 
